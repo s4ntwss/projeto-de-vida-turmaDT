@@ -62,7 +62,7 @@ body {
 
 .ativo {
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--azul);
 }
 
 .abas-textos{
@@ -84,7 +84,7 @@ body {
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--verde);
+    color: var(--vermelho);
     text-transform: uppercase;
 }
 
